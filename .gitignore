@@ -1,0 +1,10 @@
+# Build artifacts
+chip8.exe
+*.o
+*.obj
+*.exe
+
+# Temporary files
+test_*
+.DS_Store
+Thumbs.db
